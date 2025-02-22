@@ -1,10 +1,55 @@
 
-## 🚀 About Me 🚀
+# 💻 NonbinaryByte 💻
 
-Hi Hi! I'm The "NonBinaryByte" I'm 16, use He/They/Void pronouns and i love old tech! (1990s-2008 specifically!) My favorite fruit WAS peaches but suddenly I'm alergic so now my favorite fruit is Cherries 🍒, **OR** Bannanas 🍌!
+Hihi! I'm NonbinaryByte & this is my github intro!
 
-I am a OSDev, and WebDev! :)
-## 💾 Tech Stack 💾
+Name: Kenny (Femboy)
+
+Age: 17
+
+Pronouns: He/They/Void
+
+## 🔗 Links 🔗
+
+[Twitter (Formerly X)](https://x.com/RotMyHeart_exe/)
+
+[YouTube.com](https://www.youtube.com/@KennysStupidTech/)
+
+[TheKennyCreative](https://thekennycreative.org/)
+
+[Ko-Fi](https://ko-fi.com/nonbinarybyte/)
+
+[Discord Server](https://discord.gg/ZNYZ6cXskf)
+
+[SpaceHey](https://spacehey.com/nonbinarybyte)
+
+[Other Random Links I Have](linktr.ee/kennythefemme)
+
+
+## 🏅 Skills 🏅
+
+| Skill/Language/Framwork | Proficency  |
+|---|---|
+| HTML  | Proficent  |
+| CSS |  Proficent |
+| JavaShit | Sorta Proficent  |
+| Assembly | Not Proficent|
+| C | Sorta Proficent |
+| C++ | Not Proficent |
+| PHP| Not Proficent |
+| UI/UX| Not Proficent |
+| Accesibilty | Not Proficent |
+| Mobile Interface | Not Proficent |
+| Desktop Interface | Proficent |
+| Databases | Sorta Proficent |
+| Bash | Not Proficent |
+| Version Control | Proficent-ish |
+
+## 📊 Stats 📊
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonbinarybyte&show_icons=true&theme=merko)
+
+## 📊 Badges 📊
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
@@ -46,34 +91,3 @@ I am a OSDev, and WebDev! :)
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 🔗 Links 🔗
-
-[Ko-Fi/Patreon](https://ko-fi.com/nonbinarybyte)
-
-[YouTube](https://www.youtube.com/@MoonAngelTech)
-
-[Instagram](https://www.instagram.com/strrawbz.angelix/)
-
-[Twitter (formerly X)](https://x.com/nonbinarybyte)
-
-Discord server: Not ready yet!
-
-Discord Username: nonbinarybyte (display name is "Kenny (Femboy)")
-
-More to come ;)
-
-## 🔔 Other 🔔
-👩‍💻 I'm currently working on: lots of things :3
-
-🧠 I'm currently learning: A lot of things
-
-👯‍♀️ I'm looking to collaborate on: Anything related to OSDev or Web Development
-
-📫 How to reach me: Email, Instagram, or Discord!
-
-😄 Pronouns: He/They
-
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonbinarybyte&show_icons=true&theme=merko)

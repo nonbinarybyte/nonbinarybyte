@@ -11,19 +11,7 @@ Pronouns: He/They/Void
 
 ## 🔗 Links 🔗
 
-[Twitter (Formerly X)](https://x.com/RotMyHeart_exe/)
-
-[YouTube.com](https://www.youtube.com/@KennysStupidTech/)
-
-[TheKennyCreative](https://thekennycreative.org/)
-
-[Ko-Fi](https://ko-fi.com/nonbinarybyte/)
-
-[Discord Server](https://discord.gg/ZNYZ6cXskf)
-
-[SpaceHey](https://spacehey.com/nonbinarybyte)
-
-[Other Random Links I Have](linktr.ee/kennythefemme)
+[Twitter (Formerly X)](https://x.com/RotMyHeart_exe/) [YouTube.com](https://www.youtube.com/@KennysStupidTech/) [TheKennyCreative](https://thekennycreative.org/) [Ko-Fi](https://ko-fi.com/nonbinarybyte/) [Discord Server](https://discord.gg/ZNYZ6cXskf) [SpaceHey](https://spacehey.com/nonbinarybyte) [Other Random Links I Have](linktr.ee/kennythefemme)
 
 
 ## 🏅 Skills 🏅

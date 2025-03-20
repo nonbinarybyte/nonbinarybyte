@@ -3,7 +3,7 @@
 
 Hihi! I'm NonbinaryByte & this is my github intro!
 
-Name: Kenny (Femboy)
+Name: Kenny (肯尼) 
 
 Age: 17
 
@@ -11,27 +11,12 @@ Pronouns: He/They/Void
 
 ## 🔗 Links 🔗
 
-[Twitter (Formerly X)](https://x.com/RotMyHeart_exe/) [YouTube.com](https://www.youtube.com/@KennysStupidTech/) [TheKennyCreative](https://thekennycreative.org/) [Ko-Fi](https://ko-fi.com/nonbinarybyte/) [Discord Server](https://discord.gg/ZNYZ6cXskf) [SpaceHey](https://spacehey.com/nonbinarybyte) [Other Random Links I Have](linktr.ee/kennythefemme)
+[Twitter (Formerly X)](https://x.com/N0NBINARYBYTE/) [Ko-Fi](https://ko-fi.com/nonbinarybyte/) [Discord Server](https://discord.gg/ZNYZ6cXskf) 
 
 
 ## 🏅 Skills 🏅
 
-| Skill/Language/Framwork | Proficency  |
-|---|---|
-| HTML  | Proficent  |
-| CSS |  Proficent |
-| JavaShit | Sorta Proficent  |
-| Assembly | Not Proficent|
-| C | Sorta Proficent |
-| C++ | Not Proficent |
-| PHP| Not Proficent |
-| UI/UX| Not Proficent |
-| Accesibilty | Not Proficent |
-| Mobile Interface | Not Proficent |
-| Desktop Interface | Proficent |
-| Databases | Sorta Proficent |
-| Bash | Not Proficent |
-| Version Control | Proficent-ish |
+HTML, CSS, JS, C, PHP, ASM, & C++
 
 ## 📊 Stats 📊
 
@@ -48,7 +33,6 @@ Pronouns: He/They/Void
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
@@ -63,7 +47,6 @@ Pronouns: He/They/Void
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)

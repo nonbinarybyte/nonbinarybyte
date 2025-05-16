@@ -8,7 +8,7 @@ Hi! I'm Kenny Thomas-Moore, aka `@nonbinarybyte`! I am 17, use he/they/void pron
 - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white): `discord.gg/W9kWf2q4ZS`
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white): `@nonbinarybyte`
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white): `@nonbinarybyte`
-- ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white): `@Angxlwing222`
+- ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white): `@Nonbiinarybyte`
 
 ## 🎀 Skills 🎀
 

@@ -1,14 +1,46 @@
-# 🎀 @nonbinarybyte 🎀
+# 🎀 Kenny Thomas-Moore 🎀  
+*he/they/void/fae* • *17 years old*  
+🌱 Creator • 👨‍💻 Developer • 🌐 Translator  
+
 ![divider](https://media1.tenor.com/m/XVRpI81k7swAAAAC/ad-jp-ad.gif)
 
-## *Social Medias*
+---
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white): discord.gg/W9kWf2q4ZS
+### 🧵 About Me  
+Hi, I'm Kenny — a multi-niche creator passionate about building tools, languages, and worlds!  
+I love blending tech, language, and design into inclusive, joyful projects.
 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white): youtube.com/@nonbinarybyte
+- 🌟 Creator, Chinese translator, and maintainer of [`knitlang`](https://github.com/nonbinarybyte/knitlang)  
+- 🪐 Sole contributor of [`CelestiaOS`](https://github.com/nonbinarybyte/CelestiaOS)  
+- 📚 Passionate about open-source, indie tech, and creative expression  
+- 🌈 Committed to accessibility, bilingual resources, and inclusive communities
 
-![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white): bsky.app/profile/nonbinarybyte.com
+---
 
-## 📊 Stats 📊
+### 🌐 Find Me Around the Web
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nonbinarybyte&theme=radical&locale=en)](https://github.com/anuraghazra/github-readme-stats) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nonbinarybyte)](https://github.com/anuraghazra/github-readme-stats)
+- 🌸 [Website](https://nonbinarybyte.com)
+- 📷 [Instagram](https://instagram.com/nonbinarybyte)
+- 💻 [GitHub](https://github.com/nonbinarybyte)
+- 📺 [YouTube](https://www.youtube.com/@nonbinarybyte)
+- 🌱 [Join the Community on Discord!](https://discord.gg/W9kWf2q4ZS)
+
+---
+
+### 📊 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nonbinarybyte&theme=radical&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌿 Fun Facts
+
+- 🧶 I built my own programming language inspired by fiber arts  
+- ✨ I'm working on a DIY operating system with a cosmic aesthetic  
+- 🈷️ I translate between Chinese and English to share knowledge freely  
+- ☕ I run on tea, code, and inspiration from vintage tech and the stars
+
+---
+
+> 🐾 *"We weave our own tools, stitch by stitch, byte by byte."*
+

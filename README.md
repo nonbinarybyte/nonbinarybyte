@@ -24,6 +24,7 @@ I love blending tech, language, and design into inclusive, joyful projects.
 - 💻 [GitHub](https://github.com/nonbinarybyte)
 - 📺 [YouTube](https://www.youtube.com/@nonbinarybyte)
 - 🌱 [Join the Community on Discord!](https://discord.gg/W9kWf2q4ZS)
+- 🐦 [Twitter](https://x.com/nonbinarybytev2)
 
 ---
 

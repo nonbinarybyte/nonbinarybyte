@@ -11,7 +11,7 @@ Hi, I'm Kenny — a multi-niche creator passionate about building tools, languag
 I love blending tech, language, and design into inclusive, joyful projects.
 
 - 🌟 Creator, Chinese translator, and maintainer of [`knitlang`](https://github.com/nonbinarybyte/knitlang)  
-- 🪐 Sole contributor of [`CelestiaOS`](https://github.com/nonbinarybyte/CelestiaOS)  
+- 🪐 Sole contributor of [`ÖSQE`](https://github.com/nonbinarybyte/OSQE)  
 - 📚 Passionate about open-source, indie tech, and creative expression  
 - 🌈 Committed to accessibility, bilingual resources, and inclusive communities
 
@@ -23,7 +23,6 @@ I love blending tech, language, and design into inclusive, joyful projects.
 - 📷 [Instagram](https://instagram.com/nonbinarybyte)
 - 💻 [GitHub](https://github.com/nonbinarybyte)
 - 📺 [YouTube](https://www.youtube.com/@nonbinarybyte)
-- 🌱 [Join the Community on Discord!](https://discord.gg/W9kWf2q4ZS)
 - 🐦 [Twitter](https://x.com/nonbinarybytev2)
 
 ---

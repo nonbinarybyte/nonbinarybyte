@@ -1,4 +1,4 @@
-# 🎀 Kenny Thomas-Moore 🎀  
+# 🎀 P!XEL 🎀  
 *he/they/void/fae* • *17 years old*  
 🌱 Creator • 👨‍💻 Developer • 🌐 Translator  
 
@@ -7,7 +7,7 @@
 ---
 
 ### 🧵 About Me  
-Hi, I'm Kenny — a multi-niche creator passionate about building tools, languages, and worlds!  
+Hi, I'm P!XEL — a multi-niche creator passionate about building tools, languages, and worlds!  
 I love blending tech, language, and design into inclusive, joyful projects.
 
 - 🌟 Creator, Chinese translator, and maintainer of [`knitlang`](https://github.com/nonbinarybyte/knitlang)  
